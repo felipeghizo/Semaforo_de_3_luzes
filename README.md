@@ -12,4 +12,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](semaforo_de_3_luzes.PNG)
+![Esquema do projeto](semaforo_de_3_luzes.png)
